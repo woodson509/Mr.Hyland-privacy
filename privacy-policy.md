@@ -1,46 +1,59 @@
-Privacy Policy  
-----------------
+## Privacy Policy
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at Mr Hyland, how Mr Hyland uses it, and what choices you have.
- Mr Hyland built the StoreLan app as a free app. This SERVICE is provided by  Mr Hyland at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+This privacy policy ("Policy") describes how Mr Hyland collects, uses, and shares personal information of users  of our mobile application StoreLan.
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+### Information Collection
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+We collect the following types of information from users of the App:
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+* Personal data, such as name, email address, and phone number, which is provided by the user when creating an account or submitting feedback through the App.  
+* Location data, which is collected when the user enables location services on their device and uses the App.  
+* User-generated content, such as text, images, and videos, which is uploaded or created by the user through the App.
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+### Use of Information
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+We use the information collected from users for the following purposes:
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
+* To provide and improve the App and its services.  
+* To personalize content and experiences for users.  
+* To communicate with users, such as for account verification, customer service, and promotional purposes.
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+###Sharing of Information
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+We do not share personal information of users with third parties, except as follows:
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: hyland509@gmail.com
+* With service providers and business partners who perform services on our behalf, such as hosting and analytics providers.  
+* As required by law or to comply with legal process, such as to respond to a subpoena or court order.  
+* To protect the rights, property, or safety of the Company, our users, or others.
+
+
+### Data Security
+
+We take appropriate security measures to protect against unauthorized access, alteration, disclosure, or destruction of personal information. These measures include internal reviews of our data collection, storage, and processing practices, as well as physical security measures to guard against unauthorized access to systems where we store personal information.
+
+### User Rights
+
+Users have the following rights with respect to their personal information:
+
+* To access, correct, or delete their personal information.  
+* To opt out of certain uses of their personal information, such as for promotional purposes.  
+* To receive a copy of their personal information in a structured, commonly used, and machine-readable format.  
+
+
+### Children's Privacy
+
+The App is not intended for use by children under the age of 13. If we learn that we have collected personal information from a child under 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [CONTACT EMAIL].
+
+### Changes to the Policy
+
+We may update this Policy from time to time. If we make any changes to this Policy, we will notify you by revising the date at the top of this Policy and, in some cases, provide you with additional notice (such as by adding a statement to our homepage or sending you an email notification).
+
+### Contact Information
+
+If you have any questions or concerns about this Policy or our information practices, please contact us at Hyland509@gmail.com
+
+### Effective Date
+
+This Policy is effective as of 25/01/2023.
